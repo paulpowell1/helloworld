@@ -7,7 +7,7 @@
 
 <p>I am attempting to use github as a means of publishing my work.</p>
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/4ztBJZZ2A4A)
 
 # Development Environment
 
