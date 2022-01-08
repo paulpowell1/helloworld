@@ -12,5 +12,5 @@
 
 # Development Environment
 
-<p>I used Vs code and python to complete my task</p>
+<p>I used Vs code and python to complete my task. This took about an hour.</p>
 
